@@ -2,6 +2,7 @@
  * Created by Samuel Gratzl on 11.02.2016.
  */
 
-rect {
-    fill: steelblue;
+body {
+   margin: 25px auto;
+   font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
